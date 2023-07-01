@@ -1,5 +1,5 @@
 # FastAPI-Redis_streams
 
-### Fast API, Redis
+### Fast API, Redis, React
 
 ### Simple project for the purpose of learning redis and redis streams
